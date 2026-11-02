@@ -29,6 +29,7 @@ I enjoy solving complex engineering problems, exploring modern technologies, and
 
 ### Cloud & DevOps
 - AWS
+- Azure
 - Docker, Kubernetes, OpenShift
 - Terraform
 - Jenkins, CI/CD
@@ -37,6 +38,7 @@ I enjoy solving complex engineering problems, exploring modern technologies, and
 ### Generative AI
 - Spring AI
 - Amazon Bedrock
+- Azure OpenAI
 - LangChain4j
 - Retrieval-Augmented Generation (RAG)
 - Vector Databases and Embeddings
@@ -46,6 +48,7 @@ I enjoy solving complex engineering problems, exploring modern technologies, and
 - Low-Level Design (LLD)
 - Microservices Architecture
 - Distributed Systems
+- Event-driven Systems
 - Scalability, Performance and Reliability
 - Non-Functional Requirements (NFRs)
 
@@ -59,8 +62,8 @@ I enjoy solving complex engineering problems, exploring modern technologies, and
 | DSA | dsa-practice | Data Structures and Algorithms |
 | LLD | low-level-design-java | Real-world system design using Core Java |
 | Backend | spring-boot-learning | Spring Boot and enterprise backend examples |
-| React | react-counter-app | React and TypeScript projects |
-| Angular | angular-projects | Angular application development |
+| React | react-counter-app |... | React and TypeScript projects |
+| Angular | angular-counter-app|... | Angular application development |
 | Full Stack | react-springboot-applications | React + Spring Boot applications |
 | Architecture | microservices-architecture | Distributed systems and microservices |
 | System Design | system-design | HLD, LLD and architecture solutions |
